@@ -1,0 +1,25 @@
+{
+  "name": "sndpeek",
+  "version": "1.0.0",
+  "description": "Wrapper for sndpeek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobQuistNL/node-sndpeek.git"
+  },
+  "keywords": [
+    "sndpeek"
+  ],
+  "author": "Rob Quist",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RobQuistNL/node-sndpeek/issues"
+  },
+  "homepage": "https://github.com/RobQuistNL/node-sndpeek#readme",
+  "dependencies": {
+    "stream-splitter": "^0.3.2"
+  }
+}
