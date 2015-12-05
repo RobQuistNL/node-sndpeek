@@ -9,7 +9,7 @@ module.exports = new events.EventEmitter();
 function getBinaryName() {
     switch (process.platform) {
         case 'win32':
-        case 'win63':
+        case 'win64':
             return 'sndpeek.exe';
             break;
         case 'linux':
